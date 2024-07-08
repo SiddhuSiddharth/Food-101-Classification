@@ -1,7 +1,4 @@
-# Food-101-Classification
-
-<p align="right">- 20PD28 SIDDHARTH S
-<br>20PD25 SANTOSH V</p>
+# Food-101
 
 <b><u>Data Name:</u></b> Food-101 <br>
 <b><u>Data Type:</u></b> JPEG images <br>
